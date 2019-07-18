@@ -2,7 +2,7 @@
 Local File Deletion Scripts for UNIX and Windows systems
 
 Each script has a "dry run" option to produce a list of files to be deleted. 
-<Run deletion scripts at your own risk.</b>
+<b>Run deletion scripts at your own risk.</b>
 
 Run as administrator (Win) or root (UNIX).
 
